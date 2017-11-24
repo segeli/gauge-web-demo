@@ -8,7 +8,6 @@
     <artifactId>sample-gauge-test</artifactId>
     <version>1.1-SNAPSHOT</version>
 
-
     <dependencies>
 
         <dependency>
@@ -40,7 +39,6 @@
             <version>0.6.2</version>
             <scope>test</scope>
         </dependency>
-
 
     </dependencies>
 

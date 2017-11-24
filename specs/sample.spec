@@ -62,7 +62,7 @@ Tags: hataliGiris
 Alısverisi Tamamla
 ---------
 
-Tags: alısverisiTamamla
+Tags: alisverisiTamamla
 
 *  "sercan.sengoz@sahabt.com" ve "qzmqz7" ile giris yap
 *  "rootItem" class'li eleman listesindenden rastgele birine tıkla
@@ -83,7 +83,7 @@ Tags: alısverisiTamamla
 Alısverisi Tamamlama
 ---------
 
-Tags: alısverisiTamamlama
+Tags: alisverisiTamamlama
 
 *  "sercan.sengoz@sahabt.com" ve "qzmqz7" ile giris yap
 *  "rootItem" class'li eleman listesindenden rastgele birine tıkla
