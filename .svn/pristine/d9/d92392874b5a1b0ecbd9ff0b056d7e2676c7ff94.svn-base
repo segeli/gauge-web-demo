@@ -1,0 +1,169 @@
+16:40:50.472 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+16:44:51.891 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+16:44:53.862 Checking updates...
+16:45:06.850 Plugin [Html Report] with pid [2839] has exited
+16:45:06.954 Specifications:	1 executed	1 passed	0 failed	0 skipped
+16:45:06.954 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+16:45:06.954 
+Total time taken: 9.746s
+17:13:08.373 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+17:13:10.327 Checking updates...
+17:13:21.119 Plugin [Html Report] with pid [2925] has exited
+17:13:21.221 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:13:21.221 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:13:21.221 
+Total time taken: 8.378s
+09:35:34.739 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+14:21:41.219 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+14:21:42.444 Checking updates...
+14:22:39.120 Plugin [Html Report] with pid [2044] has exited
+14:22:39.637 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:22:39.637 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:22:39.637 
+Total time taken: 53.282s
+14:23:13.966 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+14:23:16.110 Checking updates...
+14:24:42.134 Plugin [Html Report] with pid [2082] has exited
+14:24:42.638 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:24:42.638 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:24:42.638 
+Total time taken: 1m23.542s
+14:26:27.762 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+14:26:28.993 Checking updates...
+14:26:54.390 Plugin [Html Report] with pid [2113] has exited
+14:26:54.591 Specifications:	1 executed	0 passed	1 failed	0 skipped
+14:26:54.591 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+14:26:54.591 
+Total time taken: 22.325s
+16:57:59.715 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+16:58:01.502 Checking updates...
+16:58:48.887 Plugin [Html Report] with pid [2536] has exited
+16:58:49.391 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:58:49.392 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:58:49.392 
+Total time taken: 44.146s
+17:02:02.447 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+17:02:03.654 Checking updates...
+17:02:33.752 Plugin [Html Report] with pid [2605] has exited
+17:02:33.954 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:02:33.954 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:02:33.954 
+Total time taken: 26.701s
+17:04:24.947 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+17:04:26.913 Checking updates...
+17:05:18.885 Plugin [Html Report] with pid [2641] has exited
+17:05:19.388 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:05:19.388 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:05:19.388 
+Total time taken: 49.18s
+17:05:27.769 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+17:05:29.466 Checking updates...
+17:05:42.151 Plugin [Html Report] with pid [2666] has exited
+17:05:42.252 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:05:42.252 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:05:42.252 
+Total time taken: 10.011s
+17:09:32.109 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+17:09:33.115 Unable to send analytics data, timed out
+17:09:34.118 Unable to send analytics data, timed out
+17:09:35.486 Checking updates...
+17:10:48.100 Plugin [Html Report] with pid [2725] has exited
+17:10:48.615 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:10:48.615 Scenarios:	4 executed	3 passed	1 failed	0 skipped
+17:10:48.615 
+Total time taken: 1m10.23s
+17:38:06.032 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+17:38:07.294 Checking updates...
+17:38:23.938 Plugin [Html Report] with pid [2950] has exited
+17:38:24.140 Specifications:	1 executed	0 passed	1 failed	0 skipped
+17:38:24.140 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+17:38:24.140 
+Total time taken: 13.371s
+17:39:04.317 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+17:39:05.532 Checking updates...
+17:40:02.896 Plugin [Html Report] with pid [2978] has exited
+17:40:03.097 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:40:03.097 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:40:03.097 
+Total time taken: 54.226s
+17:42:06.806 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+17:42:08.090 Checking updates...
+17:42:53.711 Plugin [Html Report] with pid [3013] has exited
+17:42:53.814 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:42:53.814 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:42:53.814 
+Total time taken: 42.58s
+00:30:46.267 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+00:30:52.197 Checking updates...
+00:31:15.189 Plugin [Html Report] with pid [3696] has exited
+00:31:15.290 Specifications:	1 executed	1 passed	0 failed	0 skipped
+00:31:15.290 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+00:31:15.290 
+Total time taken: 24.721s
+01:22:30.767 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+09:29:24.644 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+09:29:25.647 Unable to send analytics data, timed out
+09:29:26.648 Unable to send analytics data, timed out
+09:29:28.438 Checking updates...
+09:30:18.941 Plugin [Html Report] with pid [1914] has exited
+09:30:19.042 Specifications:	1 executed	1 passed	0 failed	0 skipped
+09:30:19.042 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+09:30:19.042 
+Total time taken: 48.594s
+09:34:28.076 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+09:34:28.529 [ParseError] /Users/tunck/IdeaProjects/sample-gauge-master/specs/concepts/user.cpt:2 Concept should have atleast one step => '<username> ve <password> ile giris yap'
+09:34:29.430 Checking updates...
+09:44:21.925 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+11:06:06.841 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+11:06:07.844 Unable to send analytics data, timed out
+11:06:38.951 Gauge Install ID: 0aa4e719-27f9-4d5b-acf9-cd49463cf659
+11:06:40.233 Checking updates...
+11:09:05.122 Plugin [Html Report] with pid [2885] has exited
+11:09:05.223 Specifications:	1 executed	1 passed	0 failed	0 skipped
+11:09:05.223 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+11:09:05.223 
+Total time taken: 2m21.462s
+16:30:32.711 Gauge Install ID: 27a9c69d-2135-4b82-a6e3-5cfed420fe6f
+16:31:53.480 Gauge Install ID: 27a9c69d-2135-4b82-a6e3-5cfed420fe6f
+16:31:53.879 Installing required plugins.
+16:31:53.879 Installing plugin 'screenshot'
+16:31:53.879 Gathering metadata for screenshot
+16:31:54.757 Checking updates...
+16:31:54.833 Downloading screenshot-0.0.1-darwin.x86_64.zip
+16:31:57.007 Installing plugin screenshot 0.0.1
+16:31:57.011 Successfully installed plugin 'screenshot'.
+16:31:57.011 Installing plugin 'html-report'
+16:31:57.011 Gathering metadata for html-report
+16:31:57.255 Downloading html-report-4.0.2-darwin.x86_64.zip
+16:31:59.346 Installing plugin html-report 4.0.2
+16:31:59.391 Successfully installed plugin 'html-report'.
+16:34:22.941 Plugin [Html Report] with pid [8967] has exited
+16:34:23.444 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:34:23.444 Scenarios:	4 executed	1 passed	3 failed	0 skipped
+16:34:23.444 
+Total time taken: 2m15.323s
+17:12:05.048 Gauge Install ID: 27a9c69d-2135-4b82-a6e3-5cfed420fe6f
+17:14:35.149 Gauge Install ID: 27a9c69d-2135-4b82-a6e3-5cfed420fe6f
+17:14:36.153 Unable to send analytics data, timed out
+17:14:37.153 Unable to send analytics data, timed out
+17:14:38.137 Checking updates...
+17:15:12.219 Plugin [Html Report] with pid [9479] has exited
+17:15:12.320 Specifications:	1 executed	1 passed	0 failed	0 skipped
+17:15:12.320 Scenarios:	1 executed	1 passed	0 failed	0 skipped
+17:15:12.320 
+Total time taken: 29.583s
+09:01:46.635 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+10:53:53.378 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+17:24:14.148 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+17:24:15.620 Checking updates...
+09:26:50.042 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+15:26:11.075 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+15:35:39.963 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+15:35:40.965 Unable to send analytics data, timed out
+15:53:05.685 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+16:01:48.578 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+16:01:49.582 Unable to send analytics data, timed out
+16:01:50.584 Unable to send analytics data, timed out
+16:01:51.955 Checking updates...
+11:29:08.145 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
+11:29:09.147 Unable to send analytics data, timed out

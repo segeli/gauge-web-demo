@@ -1,0 +1,16 @@
+
+# <username> ve <password> ile giris yap
+
+* "headerLoginUrl" id nesnesine tikla
+* "#login-form > div.row.type-select-container > label:nth-child(2) > input[type='radio']" css nesnesine tikla
+* "email" id alanina <username> yaz
+* "password" id alanina <password> yaz
+* "confirm" className nesnesine tikla
+* "2000" ms bekle
+
+
+#<classname> ile rastgele bir kategori seç
+
+*<classname> class'li eleman listesindenden rastgele birine tıkla
+
+

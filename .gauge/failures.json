@@ -1,0 +1,11 @@
+{
+	"Args": [
+		"run",
+		"--tags",
+		"alısverisiTamamlama",
+		"--dir=C:\\Users\\Esat\\Desktop\\tfs-tamufa\\sample-gauge-master"
+	],
+	"FailedItems": [
+		"specs\\sample.spec:83"
+	]
+}

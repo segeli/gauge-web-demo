@@ -1,0 +1,37 @@
+package base;
+
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.remote.DesiredCapabilities;
+
+import java.util.concurrent.TimeUnit;
+
+public class BaseTest {
+
+    protected WebDriver driver;
+    public String baseUrl = "https://www.modanisa.com/";
+
+    public void setUp() throws Exception {
+
+        System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver.exe");
+
+        ChromeOptions co = new ChromeOptions();
+        co.addArguments("--start-maximized");
+        co.addArguments("--start-fullscreen");
+
+        DesiredCapabilities capabilities = DesiredCapabilities.chrome();
+        capabilities.setCapability(ChromeOptions.CAPABILITY, co);
+
+        driver = new ChromeDriver(capabilities);
+
+        driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
+
+    }
+
+    public void tearDown() throws Exception {
+    	driver.quit();
+    }
+
+}
