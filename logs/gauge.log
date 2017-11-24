@@ -1,0 +1,42 @@
+16:58:12.098 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+16:58:12.560 The following specifications satisfy filter criteria:
+16:58:12.560 specs\sample.spec
+16:58:13.437 Checking updates...
+16:58:14.912 # Modanisa Örnek Testleri
+16:58:14.915 ## Alısverisi Tamamla
+16:58:17.743 * "/"   adresine git
+
+16:58:19.986 * "sercan.sengoz@sahabt.com" ve "qzmqz7" ile giris yap
+16:58:19.986 * "headerLoginUrl" id nesnesine tikla
+16:58:50.580 Failed Step: "headerLoginUrl" id nesnesine tikla
+16:58:50.580 Error Message: org.openqa.selenium.TimeoutException: Timed out after 20 seconds waiting for visibility of element located by By.id: headerLoginUrl
+16:58:50.580 Specification: specs\sample.spec
+16:58:50.580 Stacktrace: 
+org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:259)
+org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+base.BasePageUtil.getElementBy(BasePageUtil.java:256)
+base.BasePageUtil.clickObjectBy(BasePageUtil.java:248)
+base.BasePageUtil.clickObjectById(BasePageUtil.java:209)
+sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+java.lang.reflect.Method.invoke(Method.java:498)
+com.thoughtworks.gauge.execution.MethodExecutor.execute(MethodExecutor.java:38)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStepMethod(StepExecutionStage.java:130)
+com.thoughtworks.gauge.execution.StepExecutionStage.executeStep(StepExecutionStage.java:86)
+com.thoughtworks.gauge.execution.StepExecutionStage.execute(StepExecutionStage.java:67)
+com.thoughtworks.gauge.execution.AbstractExecutionStage.executeNext(AbstractExecutionStage.java:24)
+com.thoughtworks.gauge.execution.HookExecutionStage.execute(HookExecutionStage.java:43)
+com.thoughtworks.gauge.execution.ExecutionPipeline.start(ExecutionPipeline.java:29)
+com.thoughtworks.gauge.processor.ExecuteStepProcessor.process(ExecuteStepProcessor.java:39)
+com.thoughtworks.gauge.connection.MessageDispatcher.dispatchMessages(MessageDispatcher.java:89)
+com.thoughtworks.gauge.GaugeRuntime.dispatchMessages(GaugeRuntime.java:104)
+com.thoughtworks.gauge.GaugeRuntime.access$100(GaugeRuntime.java:36)
+com.thoughtworks.gauge.GaugeRuntime$2.run(GaugeRuntime.java:85)
+java.lang.Thread.run(Thread.java:745)
+16:58:51.682 Plugin [Xml Report] with pid [6660] has exited
+16:58:52.589 Plugin [Html Report] with pid [8528] has exited
+16:58:52.896 Specifications:	1 executed	0 passed	1 failed	0 skipped
+16:58:52.896 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+16:58:52.896 
+Total time taken: 36.662s

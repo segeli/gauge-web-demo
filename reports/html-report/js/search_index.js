@@ -1,0 +1,1 @@
+var index = {"Tags":{"alisverisiTamamla":["specs\\sample.html"]},"Specs":{"Modanisa Örnek Testleri":["specs\\sample.html"]}};
