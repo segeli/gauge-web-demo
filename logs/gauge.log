@@ -40,3 +40,9 @@ java.lang.Thread.run(Thread.java:745)
 16:58:52.896 Scenarios:	1 executed	0 passed	1 failed	0 skipped
 16:58:52.896 
 Total time taken: 36.662s
+18:44:17.443 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+18:44:20.943 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+18:48:08.276 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+18:48:08.608 Plugin java is already installed.
+18:48:08.610 Plugin html-report is already installed.
+18:48:08.612 Plugin xml-report is already installed.
