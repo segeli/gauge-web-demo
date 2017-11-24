@@ -11,13 +11,6 @@
 
     <dependencies>
 
-
-        <dependency>
-            <groupId>com.thoughtworks.gauge</groupId>
-            <artifactId>gauge-java</artifactId>
-            <version>0.6.2</version>
-        </dependency>
-
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
