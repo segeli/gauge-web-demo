@@ -6,10 +6,13 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.commons.lang3.StringUtils;
 import org.openqa.selenium.Platform;
+import org.openqa.selenium.Proxy;
+import org.openqa.selenium.Proxy.ProxyType;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
@@ -28,7 +31,6 @@ public class BaseTest {
     	capabilities.setPlatform(Platform.LINUX);
 		String key = System.getProperty("key");
 		
-		/*
         String PROXY = "ec2-54-154-66-64.eu-west-1.compute.amazonaws.com:3128"; 
         Proxy proxy = new org.openqa.selenium.Proxy();
 		proxy.setProxyType(ProxyType.MANUAL);
@@ -36,7 +38,7 @@ public class BaseTest {
 		proxy.setFtpProxy(PROXY);
 		proxy.setSslProxy(PROXY);
 		proxy.setSocksProxy(PROXY);
-		dc.setCapability(CapabilityType.PROXY, proxy);*/
+		capabilities.setCapability(CapabilityType.PROXY, proxy);
 		
 		ChromeOptions co = new ChromeOptions();
         co.addArguments("--start-maximized");
