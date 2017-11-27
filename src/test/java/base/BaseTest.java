@@ -29,30 +29,18 @@ public class BaseTest {
 
     @BeforeScenario
     public void setUp() throws Exception {
-
     	DesiredCapabilities capabilities = DesiredCapabilities.chrome();
     	capabilities.setPlatform(Platform.LINUX);
 		String key = System.getProperty("key");
-		
-        String PROXY = "ec2-54-154-66-64.eu-west-1.compute.amazonaws.com:3128"; 
-        Proxy proxy = new org.openqa.selenium.Proxy();
-		proxy.setProxyType(ProxyType.MANUAL);
-		proxy.setHttpProxy(PROXY);
-		proxy.setFtpProxy(PROXY);
-		proxy.setSslProxy(PROXY);
-		proxy.setSocksProxy(PROXY);
-		capabilities.setCapability(CapabilityType.PROXY, proxy);
 		
 		ChromeOptions co = new ChromeOptions();
         co.addArguments("--start-maximized");
         co.addArguments("--start-fullscreen");
 		
-        baseUrl = "http://dev.testinium.com/";
-        
 		if(StringUtils.isNotEmpty(key)){
 			capabilities.setCapability("key", key);
 			capabilities.setCapability(InternetExplorerDriver.IE_SWITCHES, "");
-			driver = new RemoteWebDriver(new URL("http://192.168.60.161:4444/wd/hub"),capabilities);
+			driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),capabilities);
 		} else {
 			System.setProperty("webdriver.chrome.driver", "src/test/resources/chromedriver.exe");
 			capabilities.setCapability(ChromeOptions.CAPABILITY, co);

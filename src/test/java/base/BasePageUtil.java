@@ -46,8 +46,6 @@ public class BasePageUtil extends BaseTest {
         return element;
     }
 
-
-
     @Step("ekranda <id> id nesnesini gormen gerekiyor")
     public void objectControlById(String id) {
         Assert.assertTrue(id+" id'li eleman sayfada görüntülenemedi",isElementPresentAndDisplay(By.id(id)));
@@ -182,14 +180,12 @@ public class BasePageUtil extends BaseTest {
         return element;
     }
 
-
     @Step("\"<id>\" id nesnesinde \"<index>\" indexini sec")
     public WebElement selectIndexObjectById(String name, int index) {
         WebElement element = driver.findElement(By.id(name));
         new Select(element).selectByIndex(index);
         return element;
     }
-
 
     @Step("\"<id>\" id nesnesine tikla")
     public WebElement clickObjectById(String id) {
@@ -203,7 +199,6 @@ public class BasePageUtil extends BaseTest {
 
     @Step("\"<css>\" css nesnesine tikla")
     public WebElement clickObjectByCss(String css) {
-
         return clickObjectBy(By.cssSelector(css));
     }
 
@@ -480,7 +475,6 @@ public class BasePageUtil extends BaseTest {
     }
 
     public void javaScriptClicker(WebDriver driver, WebElement element) {
-
         JavascriptExecutor jse = ((JavascriptExecutor) driver);
         jse.executeScript("var evt = document.createEvent('MouseEvents');"
                 + "evt.initMouseEvent('click',true, true, window, 0, 0, 0, 0, 0, false, false, false, false, 0,null);"
