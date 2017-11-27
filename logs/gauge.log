@@ -167,3 +167,114 @@ Total time taken: 29.583s
 16:01:51.955 Checking updates...
 11:29:08.145 Gauge Install ID: 41437378-1af2-4bd1-8133-5e4c35c01a87
 11:29:09.147 Unable to send analytics data, timed out
+12:14:05.653 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:44.444 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:44.924 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:45.464 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:46.007 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:46.524 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:46.969 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:47.379 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:47.800 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:48.283 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:48.742 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:49.172 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:49.242 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:49.654 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:50.181 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:50.587 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:50.997 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:51.384 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:53.336 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:53.769 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:54.353 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:54.918 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:55.277 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:55.702 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:14:56.157 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:01.001 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:01.450 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:01.833 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:03.227 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:03.653 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:04.099 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:11.922 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:13.773 Checking updates...
+12:15:25.248 Plugin [Xml Report] with pid [8484] has exited
+12:15:27.529 Plugin [Html Report] with pid [5752] has exited
+12:15:27.831 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:15:27.831 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:15:27.832 
+Total time taken: 5.155s
+12:15:45.253 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:45.662 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:46.086 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:46.558 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:47.944 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:48.377 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:53.859 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:15:55.073 Checking updates...
+12:16:04.831 Plugin [Xml Report] with pid [4396] has exited
+12:16:04.931 Plugin [Html Report] with pid [8484] has exited
+12:16:05.234 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:16:05.234 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:16:05.234 
+Total time taken: 5.103s
+12:16:22.275 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:16:22.734 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:16:23.220 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:16:23.613 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:16:26.219 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:16:27.452 Checking updates...
+12:16:51.145 Plugin [Xml Report] with pid [13472] has exited
+12:16:51.347 Plugin [Html Report] with pid [12652] has exited
+12:16:51.649 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:16:51.649 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:16:51.649 
+Total time taken: 14.797s
+12:17:19.366 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:17:19.956 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:17:24.855 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:17:26.073 Checking updates...
+12:17:46.140 Plugin [Xml Report] with pid [13680] has exited
+12:17:46.341 Plugin [Html Report] with pid [5752] has exited
+12:17:47.023 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:17:47.023 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:17:47.023 
+Total time taken: 11.43s
+12:18:06.806 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:18:07.267 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:18:07.716 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:18:08.123 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:18:10.470 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:18:11.662 Checking updates...
+12:18:31.606 Plugin [Xml Report] with pid [6164] has exited
+12:18:31.808 Plugin [Html Report] with pid [12660] has exited
+12:18:32.111 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:18:32.111 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:18:32.111 
+Total time taken: 10.825s
+12:18:35.043 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:18:36.289 Checking updates...
+12:18:41.602 Plugin [Xml Report] with pid [13776] has exited
+12:18:41.703 Plugin [Html Report] with pid [13628] has exited
+12:18:42.004 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:18:42.004 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:18:42.004 
+Total time taken: 740ms
+12:19:20.486 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:19:21.812 Checking updates...
+12:19:26.941 Plugin [Xml Report] with pid [1712] has exited
+12:19:27.043 Plugin [Html Report] with pid [13756] has exited
+12:19:27.344 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:19:27.344 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:19:27.344 
+Total time taken: 721ms
+12:19:54.452 Gauge Install ID: 49e7e563-089e-481d-b8f0-a9a24315eee5
+12:19:55.635 Checking updates...
+12:21:02.429 Plugin [Xml Report] with pid [14008] has exited
+12:21:02.531 Plugin [Html Report] with pid [2628] has exited
+12:21:02.832 Specifications:	1 executed	0 passed	1 failed	0 skipped
+12:21:02.832 Scenarios:	1 executed	0 passed	1 failed	0 skipped
+12:21:02.832 
+Total time taken: 58.052s

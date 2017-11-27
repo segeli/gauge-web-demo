@@ -1,10 +1,13 @@
 package base;
 
 
-import java.net.URL;
-import java.util.concurrent.TimeUnit;
-
+import com.thoughtworks.gauge.AfterScenario;
+import com.thoughtworks.gauge.AfterSpec;
+import com.thoughtworks.gauge.BeforeScenario;
+import com.thoughtworks.gauge.BeforeSpec;
 import org.apache.commons.lang3.StringUtils;
+import org.junit.AfterClass;
+import org.junit.BeforeClass;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.Proxy;
 import org.openqa.selenium.Proxy.ProxyType;
@@ -16,12 +19,12 @@ import org.openqa.selenium.remote.CapabilityType;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
-import com.thoughtworks.gauge.AfterScenario;
-import com.thoughtworks.gauge.BeforeScenario;
+import java.net.URL;
+import java.util.concurrent.TimeUnit;
 
 public class BaseTest {
 
-    protected WebDriver driver;
+    protected static WebDriver driver;
     public String baseUrl = "https://www.modanisa.com/";
 
     @BeforeScenario
