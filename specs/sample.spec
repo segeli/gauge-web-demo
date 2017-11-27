@@ -5,35 +5,10 @@ Modanisa Örnek Testleri
 
 * "/"   adresine git
 
-
-
-//Ürün arama sonunda en az 5 ürün gelmeli
-//Ürün arama
-//---------
-//
-//
-//
-//* "search_word" id alanina "apple" yaz
-//* "header_find_button" id nesnesine tikla
-//* ekranda "bulundu" yazisini gormen gerekiyor
-//
-//Kategorilere girilebilmeli
-//Kategori gezme
-//------
-//
-//
-//
-//* "Menu-Banner" id nesnesi altindaki "Mod" yazisina tikla
-//* ekranda "POPÜLER MARKALAR" yazisini gormen gerekiyor
-//* "/"   adresine git
-//* "Menu-Banner" id nesnesi altindaki "Elektronik" yazisina tikla
-//* ekranda "Popüler Markalar" yazisini gormen gerekiyor
-
-
 Kullanıcı başarılı giriş kontrol edilmeli
 -------
 
-Tags: basariliLogin
+tags: basariliLogin
 
 * "headerLoginUrl" id nesnesi varsa tikla
 * "phone" id nesnesine tikla
@@ -48,7 +23,7 @@ Kullanıcı hatalı giriş kontrol edilmeli
 Basarili kullanıcı girişini hata olarak veren test
 -------
 
-Tags: hataliGiris
+tags: hataliGiris
 
 * "headerLoginUrl" id nesnesi varsa tikla
 * "phone" id nesnesine tikla
@@ -62,7 +37,7 @@ Tags: hataliGiris
 Alısverisi Tamamla
 ---------
 
-Tags: alısverisiTamamla
+tags: alisverisiTamamla
 
 *  "sercan.sengoz@sahabt.com" ve "qzmqz7" ile giris yap
 *  "rootItem" class'li eleman listesindenden rastgele birine tıkla
@@ -83,7 +58,7 @@ Tags: alısverisiTamamla
 Alısverisi Tamamlama
 ---------
 
-Tags: alısverisiTamamlama
+tags: alısverisiTamamlama
 
 *  "sercan.sengoz@sahabt.com" ve "qzmqz7" ile giris yap
 *  "rootItem" class'li eleman listesindenden rastgele birine tıkla
