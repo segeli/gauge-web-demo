@@ -13,11 +13,15 @@ import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
+import com.thoughtworks.gauge.AfterScenario;
+import com.thoughtworks.gauge.BeforeScenario;
+
 public class BaseTest {
 
     protected WebDriver driver;
     public String baseUrl = "https://www.modanisa.com/";
 
+    @BeforeScenario
     public void setUp() throws Exception {
 
     	DesiredCapabilities capabilities = DesiredCapabilities.chrome();
@@ -53,6 +57,7 @@ public class BaseTest {
         driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
     }
 
+    @AfterScenario
     public void tearDown() throws Exception {
     	driver.quit();
     }

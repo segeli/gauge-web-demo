@@ -4,9 +4,7 @@ import java.security.MessageDigest;
 import java.util.List;
 import java.util.Random;
 
-import org.junit.After;
 import org.junit.Assert;
-import org.junit.Before;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
@@ -22,26 +20,11 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.thoughtworks.gauge.Step;
 
-
 public class BasePageUtil extends BaseTest {
 
-    @Before
-    public void setUp() throws Exception {
-        super.setUp();
-        this.driver = super.driver;
-    }
-
-
-    @After
-    public void tearDown() throws Exception {
-        super.tearDown();
-    }
-
-    protected WebDriver driver;
     public static final int DEFAULT_WAIT = 20;
     public static final int MIN_WAIT = 5;
     public static final int MAX_WAIT = 20;
-
 
     @Step("\"<url>\"   adresine git")
     public void openUrl(String url) {
