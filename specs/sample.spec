@@ -33,7 +33,7 @@ Modanisa Örnek Testleri
 Kullanıcı başarılı giriş kontrol edilmeli
 -------
 
-tags: basariliLogin
+Tags: basariliLogin
 
 * "headerLoginUrl" id nesnesi varsa tikla
 * "phone" id nesnesine tikla
@@ -48,7 +48,7 @@ Kullanıcı hatalı giriş kontrol edilmeli
 Basarili kullanıcı girişini hata olarak veren test
 -------
 
-tags: hataliGiris
+Tags: hataliGiris
 
 * "headerLoginUrl" id nesnesi varsa tikla
 * "phone" id nesnesine tikla
@@ -62,7 +62,7 @@ tags: hataliGiris
 Alısverisi Tamamla
 ---------
 
-tags: alisverisiTamamla
+Tags: alısverisiTamamla
 
 *  "sercan.sengoz@sahabt.com" ve "qzmqz7" ile giris yap
 *  "rootItem" class'li eleman listesindenden rastgele birine tıkla
@@ -83,7 +83,7 @@ tags: alisverisiTamamla
 Alısverisi Tamamlama
 ---------
 
-tags: alisverisiTamamlama
+Tags: alısverisiTamamlama
 
 *  "sercan.sengoz@sahabt.com" ve "qzmqz7" ile giris yap
 *  "rootItem" class'li eleman listesindenden rastgele birine tıkla

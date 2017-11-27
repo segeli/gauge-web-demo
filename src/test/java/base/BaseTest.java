@@ -19,7 +19,7 @@ public class BaseTest {
     public String baseUrl = "https://www.modanisa.com/";
 
     public void setUp() throws Exception {
-    	System.out.println("setUp invoked..");
+
     	DesiredCapabilities capabilities = DesiredCapabilities.chrome();
     	capabilities.setPlatform(Platform.LINUX);
 		String key = System.getProperty("key");
@@ -39,9 +39,8 @@ public class BaseTest {
         co.addArguments("--start-fullscreen");
 		
         baseUrl = "http://dev.testinium.com/";
-        System.out.println("KEY: " + key);
+        
 		if(StringUtils.isNotEmpty(key)){
-			System.out.println("key:" + key);
 			capabilities.setCapability("key", key);
 			capabilities.setCapability(InternetExplorerDriver.IE_SWITCHES, "");
 			driver = new RemoteWebDriver(new URL("http://192.168.60.161:4444/wd/hub"),capabilities);

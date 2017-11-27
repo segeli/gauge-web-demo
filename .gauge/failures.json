@@ -1,11 +1,11 @@
 {
 	"Args": [
 		"run",
-		"--tags",
-		"alisverisiTamamla",
-		"--dir=C:\\Users\\Esat\\Desktop\\tfs-tamufa\\sample-gauge-master"
+		"--machine-readable",
+		"--hide-suggestion",
+		"--simple-console"
 	],
 	"FailedItems": [
-		"specs\\sample.spec:62"
+		"specs/sample.spec:52"
 	]
 }

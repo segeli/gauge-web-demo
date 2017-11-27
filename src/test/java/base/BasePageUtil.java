@@ -3,10 +3,7 @@ package base;
 import com.thoughtworks.gauge.AfterScenario;
 import com.thoughtworks.gauge.BeforeScenario;
 import com.thoughtworks.gauge.Step;
-
-import org.junit.After;
 import org.junit.Assert;
-import org.junit.Before;
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.interactions.HasInputDevices;
@@ -24,14 +21,14 @@ import java.util.Random;
 public class BasePageUtil extends BaseTest {
 
 
-    @Before
+    @BeforeScenario
     public void setUp() throws Exception {
         super.setUp();
         this.driver = super.driver;
     }
 
 
-    @After
+    @AfterScenario
     public void tearDown() throws Exception {
         super.tearDown();
     }
