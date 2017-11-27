@@ -4,7 +4,9 @@ import java.security.MessageDigest;
 import java.util.List;
 import java.util.Random;
 
+import org.junit.After;
 import org.junit.Assert;
+import org.junit.Before;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchElementException;
@@ -18,21 +20,19 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.thoughtworks.gauge.AfterSuite;
-import com.thoughtworks.gauge.BeforeSuite;
 import com.thoughtworks.gauge.Step;
 
 
 public class BasePageUtil extends BaseTest {
 
-    @BeforeSuite
+    @Before
     public void setUp() throws Exception {
         super.setUp();
         this.driver = super.driver;
     }
 
 
-    @AfterSuite
+    @After
     public void tearDown() throws Exception {
         super.tearDown();
     }
