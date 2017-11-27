@@ -58,7 +58,7 @@ tags: alisverisiTamamla
 Alısverisi Tamamlama
 ---------
 
-tags: alısverisiTamamlama
+tags: alisverisiTamamlama
 
 *  "sercan.sengoz@sahabt.com" ve "qzmqz7" ile giris yap
 *  "rootItem" class'li eleman listesindenden rastgele birine tıkla
